@@ -1,5 +1,6 @@
-# > 国人商家
+# > idc商家
 
+HOST-KEYWORD,ovh,IDC
 HOST-SUFFIX,beervm.com,IDC
 HOST-SUFFIX,iaclouds.com,IDC
 HOST-SUFFIX,my.l3.ee,IDC
@@ -7,4 +8,3 @@ HOST-SUFFIX,demotoday.xyz,IDC
 HOST-SUFFIX,ieplconn.com,IDC
 HOST-SUFFIX,dmit.io,IDC
 HOST-SUFFIX,ovh.com,IDC
-
