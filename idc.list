@@ -1,7 +1,7 @@
 # > 国人商家
 
 USER-AGENT,xiuluo*,IDC
-HOST-SUFFIX,xiuluohost.com,IDC
+#HOST-SUFFIX,xiuluohost.com,IDC
 HOST-SUFFIX,beervm.com,IDC
 HOST-SUFFIX,bestvm,IDC
 HOST-SUFFIX,iyun,IDC
