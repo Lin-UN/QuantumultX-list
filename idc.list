@@ -1,8 +1,10 @@
 # > 国人商家
 
-USER-AGENT,xiuluo*,IDC
 HOST-SUFFIX,beervm.com,IDC
-HOST-SUFFIX,bestvm,IDC
-HOST-SUFFIX,iyun,IDC
-HOST-SUFFIX,6le,IDC
-HOST-SUFFIX,demo,IDC
+HOST-SUFFIX,iaclouds.com,IDC
+HOST-SUFFIX,my.l3.ee,IDC
+HOST-SUFFIX,demotoday.xyz,IDC
+HOST-SUFFIX,ieplconn.com,IDC
+HOST-SUFFIX,dmit.io,IDC
+HOST-SUFFIX,ovh.com,IDC
+
