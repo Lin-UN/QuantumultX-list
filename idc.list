@@ -1,6 +1,7 @@
 # > idc商家
 
 HOST-KEYWORD,ovh,IDC
+HOST-KEYWORD,gugu,IDC
 HOST-SUFFIX,beervm.com,IDC
 HOST-SUFFIX,iaclouds.com,IDC
 HOST-SUFFIX,my.l3.ee,IDC
